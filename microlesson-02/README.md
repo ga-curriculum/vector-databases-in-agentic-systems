@@ -108,15 +108,11 @@ This retrieval step slots directly into the ReAct loop we learned about in Modul
 
 <div class="mermaid">
 graph TD
-    A[User Query: "What's the Project Phoenix deadline?"] --> B[Thought: "This requires internal knowledge"]
-    B --> C[Action: vector_search("Project Phoenix deadline")]
-    C --> D[Observation: "Q3 2025 target, delayed from Q1"]
-    D --> E[Thought: "I have factual context"]
-    E --> F[Final Answer: "Project Phoenix deadline moved to Q3 2025"]
-    
-    style B fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style C fill:#f3e5f5,stroke:#4a148c,stroke-width:2px
-    style D fill:#e8f5e8,stroke:#1b5e20,stroke-width:2px
+    A[User Query: What is the Project Phoenix deadline?] --> B[Thought: This requires internal knowledge]
+    B --> C[Action: vector_search Project Phoenix deadline]
+    C --> D[Observation: Q3 2025 target, delayed from Q1]
+    D --> E[Thought: I have factual context]
+    E --> F[Final Answer: Project Phoenix deadline moved to Q3 2025]
 </div>
 
 ### The Enhanced ReAct Process with RAG
