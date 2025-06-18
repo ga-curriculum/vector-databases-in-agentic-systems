@@ -1,0 +1,39 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "Vector Databases in Agentic Systems",
+    "name": "Vector-Databases-in-Agentic-Systems",
+    "type": "Lesson",
+    "about": "",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "The Amnesia Problem",
+          "dirName": "microlesson-01",
+          "type": "Content",
+          "skill": "",
+          "videoUrl": ""
+        },
+        {
+          "friendlyName": "RAG in Practice",
+          "dirName": "microlesson-02",
+          "type": "Content",
+          "skill": "",
+          "videoUrl": ""
+        }
+      ]
+    }
+  ]
+} 

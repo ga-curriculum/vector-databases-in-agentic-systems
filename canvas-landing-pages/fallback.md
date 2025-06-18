@@ -1,26 +1,18 @@
 <!-- ! Do not delete or rename this file! -->
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Headline]</span>
+  <span class="headline">Vector Databases in Agentic Systems</span>
 </h1>
 
-tktk Add some default course navigation content here. This landing page will be used when a student's course cannot be determined, so don't include any course-specific details.
+This module solves the "amnesia problem" of AI agents by introducing vector databases as external memory systems. You'll learn how Retrieval-Augmented Generation (RAG) transforms agents from confident hallucination machines into grounded, factual systems that can access dynamic, private information.
 
 ## Content
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Setup](../setup/README.md)                          | -- | Set up the development environment. |
-| [Concepts](../concepts/README.md)                    | -- | tktk Skills covered.                |
-| [tktk Microlesson Name](../microlesson-01/README.md) | -- | tktk Skills covered.                |
-| **Total content**                                    | -- |                                     |
-
-## Level Up content
-
-| Lesson | Est. Delivery Time | Skills |
-| ------ |:------------------:| ------ |
-| [tktk Microlesson Name](../microlesson-02/README.md) | -- | tktk Skills covered. |
-| **Total Level Up content**                           | -- |                      |
+| [The Amnesia Problem](../microlesson-01/README.md) | 15 min | Understand the limitations of base LLMs and how vector databases provide external memory. |
+| [RAG in Practice](../microlesson-02/README.md) | 15 min | Build hands-on RAG systems and integrate them with agent reasoning loops. |
+| **Total content** | ~30 min | Foundation for memory-enabled agentic systems. |
 
 ## References
 

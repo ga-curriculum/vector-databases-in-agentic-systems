@@ -1,7 +1,7 @@
 {
-  "name": "tktk-module-name",
+  "name": "vector-databases-agentic-systems",
   "version": "1.0.0",
-  "description": "",
+  "description": "Vector Databases in Agentic Systems",
   "scripts": {
     "mdv": "node md-validate.js"
   },
