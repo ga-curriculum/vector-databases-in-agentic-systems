@@ -36,24 +36,6 @@ By the end of this session, learners will be able to:
 - Basic familiarity with APIs and database concepts
 - Knowledge of Large Language Models and their limitations
 
-### Starter code
-
-tktk If there is not a starter code repo that students will use to start this lesson, then this section and all of its content should be removed.
-
-🟢 [Starter code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Solution code
-
-tktk If there is not solution code related to this module this section and all of its content should be removed.
-
-🏁 [Solution code](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
-
-### Deployed site
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
 ### Course landing pages
 
 - [Fallback](https://ga-curriculum.github.io/Vector-Databases-in-Agentic-Systems/canvas-landing-pages/fallback.html)
